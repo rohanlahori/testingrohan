@@ -22,5 +22,13 @@
     "lastpushDate": "2024-12-03T08:12:39.316Z",
     "gitVersionName": "v1",
     "lastCommitUser": "rohan "
+  },
+  "370d1996-6133-47e1-a2e1-1cfe190925f7": {
+    "gitAppName": "Bug tracker1",
+    "lastCommitMessage": "App Bug tracker1 created",
+    "gitVersionId": "652d3348-747e-4cab-aa24-ed552aa4de95",
+    "lastpushDate": "2024-12-03T08:47:51.924Z",
+    "gitVersionName": "v1",
+    "lastCommitUser": "rohan "
   }
 }
